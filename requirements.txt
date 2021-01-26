@@ -1,0 +1,15 @@
+tables
+pandas
+matplotlib
+scikit-learn
+nltk==3.4.5
+gensim
+networkx
+lxml
+seaborn
+scikit-learn
+tensorflow==1.15.0
+tflearn
+cufflinks
+wordcloud
+pyvis
