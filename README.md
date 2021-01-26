@@ -1,6 +1,6 @@
 # Deep_Learning
 
-## Binder Badge to start the Binder environment:
+## Binder Badge, um die Binder-Umgebung zu starten:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdilSh99/Deep_Learning/HEAD)
 
 
